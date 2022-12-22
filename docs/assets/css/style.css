@@ -266,7 +266,6 @@
   
   
   
-  
   /*-----------------------------------*\
    * #HEADER
   \*-----------------------------------*/
@@ -442,9 +441,8 @@
   }
   
   .hero-banner {
-    max-width: 300px;
-    width: 125%;
-    margin-bottom: 30px;
+    max-width: 400px;
+    width: 100%;
     
   }
   
@@ -456,15 +454,21 @@
     color: #aaaa;
     margin-right: 900px;
   }
+  .hero-text {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
+
   
   .hero-title {
-    flex: 1 1 40rem;
-    padding-top: 1rem;
+    flex: 1 1 20rem;
+    padding-top: auto;
     z-index: 1;
     text-align: center;
-    margin-top: auto;
-    font-size: 100px;
-    line-height: 90px;
+    margin: auto;
+    font-size: 50px;
+    line-height: 50px;
     color: transparent;
     -webkit-text-stroke: 1px rgb(255, 255, 255);
     background: url(/docs/assets/images/back.png);
