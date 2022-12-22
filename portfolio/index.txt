@@ -1,0 +1,191 @@
+lovely portfolio
+
+# HEDER
+
+Lovely.
+
+En
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home
+About
+Resume
+Projects
+Contact
+
+
+
+# HERO
+
+LOVELY JANE S. GARLAN
+
+Get in touch
+
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+<ion-icon name="logo-twitter"></ion-icon>
+Twitter
+
+
+Scroll
+
+
+
+# ABOUT
+
+
+About me
+
+Who Am I
+
+Welcome to my corner of internet. I’m glad you’re here! I’m a thrid year college at Sorsogon State University taking up Bachelor of Science in Information Technology. I enjoy playing with colors. I love editing, photography, traveling, and dancing. My key strength are visual & interaction design. I am hard working and passionate towards my work.
+
+
+Download cv
+
+
+
+# Resume
+
+Education
+
+2020 - Present
+Bachelor of Science in Information Technology
+Sorsogon State University
+
+2018 - 2020
+Computer System Servicing
+Bulan National High School
+
+2016 - 2018
+Grade 9 - 10
+San Juan Bag-o High School
+
+2014 - 2016
+Grade 7 - 8
+Caloocan High School
+
+My Skills
+
+Skills
+Tools
+
+HTML
+alt = HTML logo
+
+CSS
+alt = CSS logo
+
+JavaScript
+alt = JavaScript logo
+
+Git
+alt = Git logo
+
+Npm
+alt = Npm logo
+
+VS Code
+alt = VS Code logo
+
+Photoshop
+alt = Photoshop logo
+
+
+# PROJECTS
+
+My Works
+
+Checkout My Works!
+
+
+
+alt = A macintosh on a yellow background.
+Lorem Ipsum Dolor 01
+April 2022
+
+alt = On a Blue background, a Wacom and a mouse.
+Lorem Ipsum Dolor 02
+
+alt = A Cassette tape on a mellow apricot background.
+Lorem Ipsum Dolor 03
+
+alt = Blue digital watch on a dark liver background.
+Lorem Ipsum Dolor 04
+
+alt = On a dark liver background, Airport luggage car carrying a luggage.
+Lorem Ipsum Dolor 05
+
+alt = On a yellow background, a digital watch and a glass.
+Lorem Ipsum Dolor 06
+
+alt = A fujifilm instant camera on a dark electric blue background.
+Lorem Ipsum Dolor 07
+
+Load more work
+
+
+
+# CONTACT
+
+Contact
+
+We love to hear from you
+
+Want to get in touch? I love to hear from you. I’m happy to answer all your questions. Fill out the form and I’ll be in touch as soon as possible. Here’s how you can reach me.
+
+<ion-icon name="location-outline"></ion-icon>
+Address:
+Purok 4 Abad Santos, Bulan, Sorsogon
+
+<ion-icon name="call-outline"></ion-icon>
+Phone:
+09630308539
+
+<ion-icon name="mail-outline"></ion-icon>
+Email:
+garlanjane@gmail.com
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+
+Name
+<ion-icon name="person-circle"></ion-icon>
+placeholder = e.g Lovely Jane Garlan
+
+Email
+<ion-icon name="mail"></ion-icon>
+placeholder = e.g garlanjane@gmail.com
+
+Phone
+<ion-icon name="call"></ion-icon>
+placeholder = Phone Number
+
+Message
+<ion-icon name="chatbubbles"></ion-icon>
+placeholder = Write message...
+
+Send
+
+
+
+# FOOTER
+
+Lovely.
+
+&copy; 2022 Lovely Jane Garlan. All rights reserved
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
